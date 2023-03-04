@@ -1,0 +1,13 @@
+name = "Custom Fog"
+filename = "custom-fog-1.5.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2JyZgJxC/versions/1.5.1/custom-fog-1.5.1.jar"
+hash-format = "sha1"
+hash = "97c36a490edd8f9faef9f4e60d8ca5ba26a55394"
+
+[update]
+[update.modrinth]
+mod-id = "2JyZgJxC"
+version = "5d9uLeRx"
