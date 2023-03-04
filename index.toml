@@ -258,3 +258,8 @@ metafile = true
 file = "resourcepacks/visible-ores.pw.toml"
 hash = "8850ca1eb35cf9501eb31e1968524d6e0963066a7b3ed1dfb6376889a83ac3e8"
 metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-shaders-v4.pw.toml"
+hash = "d468216fa4b4917769fae3179b7bb47656f8a65474e87352d5b379783384e0af"
+metafile = true
