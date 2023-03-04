@@ -1,13 +1,13 @@
 name = "libIPN"
 filename = "libIPN-fabric-1.16-2.0.2.jar"
-side = "both"
+side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/onSQdWhM/versions/JmOF40Xk/libIPN-fabric-1.16-2.0.2.jar"
 hash-format = "sha1"
 hash = "c0c309eebe2460c2c213a6a30b99e830e3a7f932"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4370449
-project-id = 679177
+[update.modrinth]
+mod-id = "onSQdWhM"
+version = "JmOF40Xk"

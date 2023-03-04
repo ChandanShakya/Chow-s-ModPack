@@ -16,7 +16,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "44c97139367bae9aa1f259ce2f35fc731a62e71e6c34eedd4bbcc737cd8e8233"
+hash = "c378b022a7bdb3ca680bba80b140419cf451d0e137b0c588a91ff90e6d7ee208"
 metafile = true
 
 [[files]]
@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/cull-leaves.pw.toml"
-hash = "7e334764a1d5f5e6a1b2578dd46b598d1f5a451de099fa3446778cf4698ea79f"
+hash = "30226f0e5ea1ff0391385fb132c5042d962f3efe36d1912ba102f918ad025bd8"
 metafile = true
 
 [[files]]
@@ -70,8 +70,8 @@ hash = "fb420aaf449bcf267d16e54326a6cb7e24c7fc5caa20fea3af98170015447a88"
 metafile = true
 
 [[files]]
-file = "mods/distant-horizons.pw.toml"
-hash = "6c9f1cac78147591973a25657c4772a0689a2f66b095765fec53491cba48a22d"
+file = "mods/distanthorizons.pw.toml"
+hash = "508777810f6a106fdf5d3eb1271d70e4dffac8abaa15eff45c5aeb42f21b5cd9"
 metafile = true
 
 [[files]]
@@ -91,12 +91,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b5cb24a4168af0e3a6400c248c440bd0bb6e08a8bb6d03922fa2b1f6376ed6d8"
+hash = "f694e5041866e133c16c2777e98b643011432b0bd8d97f2666722f3758fd8b2d"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "617ad00be9c1d9df4cd143bae57279e63d744e3441774e633d421ac5daccc955"
+hash = "0fe83c99b29c952f464c7bfba9cc86cc4f834bef7834821433fe23ce3dd230e6"
 metafile = true
 
 [[files]]
@@ -111,22 +111,22 @@ metafile = true
 
 [[files]]
 file = "mods/fastopenlinksandfolders.pw.toml"
-hash = "8a2498e02882121efeac1e1836e93ecaa06370828117295a589163de4008c46f"
+hash = "ff54403726ef6349d2b0d9fc9588e5923aff79c0756820f3d4aa2c4c9dd8e2d8"
 metafile = true
 
 [[files]]
-file = "mods/ferritecore-fabric.pw.toml"
-hash = "1140e9e9cca29663eab71692275c5ba278f7dee0148d5839e164e37a13179324"
+file = "mods/ferrite-core.pw.toml"
+hash = "51c317a3ab72589f7f7856a15421f6a52fe2fc73eb81a1b3dd3269dc92252262"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "2ac07ecaa0b8ee4ab832aae09882e8c0bc99766c38ac6b91b24a6ab5e68c38e3"
+hash = "1629bdab584c04d02ac3da81340e0d48b611b6ac6044d677fcdc32d4ba4a4da2"
 metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "2cb970b5a813493bc10bda996bb920fac19b6327424de8548531c354dc6ef820"
+hash = "f0db1760a04b0e709f1714f16b8a285af0f7de133648e376f6373983064f140f"
 metafile = true
 
 [[files]]
@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "67cf1cd032947542b8e11cb18225cbf6a4821621db34ad2c8e8d3295626de565"
+hash = "f701a8749c434cba1f272ecc6ed806c86d6437f1d7486f71ebdabb661cac827a"
 metafile = true
 
 [[files]]
@@ -200,13 +200,13 @@ hash = "85af28fee016a70644af82f53993680908a64f48667a45ce05319666c2136555"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-crashes.pw.toml"
-hash = "342a6e0760ede300477bfbf6895c50161a0fccc2a100ab0e41b77743271dfa0a"
+file = "mods/notenoughcrashes.pw.toml"
+hash = "57a40078c03d2890e2c173d59d1b66bd4c150322751d847751c30d7382a7a7aa"
 metafile = true
 
 [[files]]
 file = "mods/phosphor.pw.toml"
-hash = "324859142c5bf2fe06793c9de363412f81fa3abc5bc385a1a0482009d9d083d4"
+hash = "bdb442a0469f6dcae8668a413b6ed05caaab5614d887aa1258cf5d06df203b7e"
 metafile = true
 
 [[files]]
@@ -251,12 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
-hash = "003dee7fef878abc298c3c6589b7b21e8922def090c9cf8259ae8c6aacc0946f"
-metafile = true
-
-[[files]]
-file = "resourcepacks/visible-ores.pw.toml"
-hash = "8850ca1eb35cf9501eb31e1968524d6e0963066a7b3ed1dfb6376889a83ac3e8"
+hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
 metafile = true
 
 [[files]]
