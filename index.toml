@@ -5,6 +5,15 @@ file = "LICENSE"
 hash = "902a21d931396a91c95e3c07ed4e8f9a56452aed3c13dba7128952bf52bb7a30"
 
 [[files]]
+file = "README.MD"
+hash = "f77490d2553879f59990da6601a793bb6c151301ce37b8f319ab67ed51a68166"
+
+[[files]]
+file = "mods/Better-PVP-Mod.pw.toml"
+hash = "e33e1feaa783b559a54582cf05aa6496ca6ea3b01cbe5f727f6541eda7d3f2ca"
+metafile = true
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "9fb64135aa8029137484c95a8008b2a5adfd1e33e614f7e04959f57702079000"
 metafile = true
@@ -27,6 +36,11 @@ metafile = true
 [[files]]
 file = "mods/better-beds.pw.toml"
 hash = "0dea905158c09daca939be9813f2d0d9265f652957a3e2241b2fb133371ac624"
+metafile = true
+
+[[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "4ade0552f44fdaf1e9ab4860f67f33219af7c4e96fd04e7b6cdd43a4c625e75b"
 metafile = true
 
 [[files]]

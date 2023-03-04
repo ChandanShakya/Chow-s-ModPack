@@ -1,0 +1,11 @@
+name = "Better PVP"
+filename = "BetterPvP_23.2.0_Fabric_1.16.5.jar"
+side = "client"
+
+[download]
+url = "https://chocolateminecraft.com/mods2/bpvp/BetterPvP_23.2.0_Fabric_1.16.5.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "c9c22c5bf2ea8920afb305258d04a01b06c0d53ebbd2d625ac197307a89d1365"

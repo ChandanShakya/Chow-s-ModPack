@@ -1,0 +1,13 @@
+name = "Better Ping Display [Fabric]"
+filename = "BetterPingDisplay-Fabric-1.16.5-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3fdfff307936b7b1defc71a09da7fdae74650e4d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3398026
+project-id = 406343
